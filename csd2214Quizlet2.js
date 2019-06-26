@@ -11,5 +11,5 @@ function waitingFn(TimeInMs){
 
 
 }
-
+debugger;
 waitingFn(3000);
